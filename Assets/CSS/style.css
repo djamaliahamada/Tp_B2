@@ -1,0 +1,29 @@
+.nav-head{
+    margin-left: 200px;
+}
+.container-head{
+    height: calc(100vh - 56px);
+    background-image: url("../Images/image1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bord-bienvenu{
+    text-align: center;
+}
+.bord-bienvenu span{
+    color: white;
+    font-size: 30px;
+}
+.bord-bienvenu a{
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.connexion form{
+    background-color: aquamarine;
+}
